@@ -1,8 +1,8 @@
 # Hi there, I'm Muhammad Shahaam Siddiqui 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
-[![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet)](https://github.com/your-username)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide=css)](https://github.com/your-username)
+[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/Shahaam-Sid)
+[![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet)](https://github.com/Shahaam-Sid)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide=css)](https://github.com/Shahaam-Sid)
 
 ---
 
@@ -25,8 +25,8 @@
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahaam-Sid&show_icons=true&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shahaam-Sid&theme=radical)
 
 ---
 
