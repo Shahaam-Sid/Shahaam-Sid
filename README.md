@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Shahaam Siddiqui 👋
 
-<!--
-**Shahaam-Sid/Shahaam-Sid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
+[![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet)](https://github.com/your-username)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide=css)](https://github.com/your-username)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🎓 BSCS Student (2nd Semester)
+- 🧠 Interested in **Data Science** and **Machine Learning**
+- 💻 Love coding in **Python** and **Java**
+- 🚀 Goals: Build real-world projects and become a Data Scientist!
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages**: Python, Java
+- **Tools**: VSCode, Git, Jupyter Notebook
+- **Libraries**: NumPy, Pandas, Matplotlib
+
+---
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+
+---
+
+### 📫 Connect with me
+
+- 📧 Email: muhammadgc821@gmail.com
