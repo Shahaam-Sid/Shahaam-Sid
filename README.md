@@ -50,6 +50,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shahaam-Sid&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shahaam-Sid&layout=compact&langs_count=5&theme=dracula" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=Shahaam-Sid&theme=dracula" height="150" alt="streak graph" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Shahaam-Sid&theme=dracula" height="150" alt="streak graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahaam-Sid&theme=react-dark&area=true" height="300" alt="activity-graph graph" />
 </div>
