@@ -28,28 +28,4 @@
 
 <div align="left">
   <a href="https://discord.com/users/457808495723413516">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="discord logo" />
-  </a>
-  <a href="mailto:muhammadgc821@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-shahaam-siddiqui-04010a25b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<!-- Snake animation only works if GitHub Action is setup -->
-<!-- <img src="https://raw.githubusercontent.com/Shahaam-Sid/Shahaam-Sid/output/snake.svg" alt="Snake animation" /> -->
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shahaam-Sid&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shahaam-Sid&layout=compact&langs_count=5&theme=dracula" height="150" alt="languages graph" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Shahaam-Sid&theme=dracula" height="150" alt="streak graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahaam-Sid&theme=react-dark&area=true" height="300" alt="activity-graph graph" />
-</div>
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=wh
