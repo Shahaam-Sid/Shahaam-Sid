@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Muhammad Shahaam Siddiqui and I'm a Computer Science Student, from Karachi, Pakistan</h2>
+<h2 align="left">Hi 👋! My name is Muhammad Shahaam Siddiqui and I'm Data Science Aspirant, from Karachi, Pakistan</h2>
 
 ###
 
