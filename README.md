@@ -19,6 +19,8 @@
   <img width="12" />
   <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" height="30" alt="matplotlib logo"  />
   <img width="12" />
+  <img src="https://icon.icepanel.io/Technology/svg/Ploty.svg" height="30" alt="plotly logo"  />
+  <img width="12" />
 </div>
 
 ###
