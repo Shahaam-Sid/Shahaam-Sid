@@ -46,6 +46,7 @@
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahaam-Sid&amp;layout=compact&amp;langs_count=6&amp;theme=tokyonight&amp;hide_border=false&amp;locale=en" style="max-width: 100%; height: auto; max-height: 150px;">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=Shahaam-Sid&theme=dracula" height="150" alt="streak graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahaam-Sid&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
